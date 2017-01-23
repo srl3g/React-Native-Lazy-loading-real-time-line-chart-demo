@@ -13,8 +13,8 @@
 		"es6-symbol": "^3.1.0",
 		"lru-cache": "^4.0.2",
 		"lru_map": "^0.3.2",
-		"react": "~15.4.1",
-		"react-native": "0.38.0",
+		"react": "~15.4.0-rc.4",
+		"react-native": "0.40.0",
 		"realm": "^0.15.4",
 		"util": "^0.10.3"
 	},
